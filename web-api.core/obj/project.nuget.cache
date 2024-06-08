@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "tJgcrAxK6+LOFKXGz1yUNT6vHZ39U+LhTzvZXG3PX7zB3LpJ4SQ+nyRLj5+k2sxM8Tvpj6Fu+jpM7QFIvie0bg==",
+  "success": true,
+  "projectFilePath": "D:\\תכנות\\שנה B\\דוטנט\\מהסמינר\\30.05.2024\\ספריה-אחרי חיבור ל DB\\ספריה-אחרי החלוקה לתקיות\\Project1\\web-api\\web-api.core\\web-api.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

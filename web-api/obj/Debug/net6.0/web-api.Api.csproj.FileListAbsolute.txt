@@ -1,0 +1,254 @@
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.csproj.AssemblyReference.cache
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.AssemblyInfoInputs.cache
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.AssemblyInfo.cs
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.csproj.CoreCompileInputs.cache
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\appsettings.Development.json
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\appsettings.json
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Api.exe
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Api.deps.json
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Api.runtimeconfig.json
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Api.dll
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Api.pdb
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Core.dll
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Data.dll
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Service.dll
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Core.pdb
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Data.pdb
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Service.pdb
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\staticwebassets\msbuild.web-api.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\staticwebassets\msbuild.build.web-api.Api.props
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.web-api.Api.props
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.web-api.Api.props
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\staticwebassets.pack.json
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\staticwebassets.build.json
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\staticwebassets.development.json
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\scopedcss\bundle\web-api.Api.styles.css
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.csproj.CopyComplete
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.dll
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\refint\web-api.Api.dll
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.pdb
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.genruntimeconfig.cache
+E:\תכנות\שנה B\דוטנט\מהסמינר\יום חמישי ט טבת\שלי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\ref\web-api.Api.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Api.exe
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Api.deps.json
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Api.runtimeconfig.json
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Api.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Api.pdb
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Humanizer.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Core.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Data.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Service.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Core.pdb
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Data.pdb
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Service.pdb
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.csproj.AssemblyReference.cache
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.AssemblyInfoInputs.cache
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.AssemblyInfo.cs
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\scopedcss\bundle\web-api.Api.styles.css
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.csproj.CopyComplete
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\refint\web-api.Api.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.pdb
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.genruntimeconfig.cache
+Y:\Groups\Group_1\גיברלטר  חוה\.net\משבי\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\ref\web-api.Api.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Api.exe
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Api.deps.json
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Api.runtimeconfig.json
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Api.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Api.pdb
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Humanizer.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Core.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Data.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Service.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Core.pdb
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Data.pdb
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Service.pdb
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.csproj.AssemblyReference.cache
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.AssemblyInfoInputs.cache
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.AssemblyInfo.cs
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\scopedcss\bundle\web-api.Api.styles.css
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.csproj.CopyComplete
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\refint\web-api.Api.dll
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.pdb
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.genruntimeconfig.cache
+Y:\Groups\Group_1\גיברלטר  חוה\.net\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\ref\web-api.Api.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\appsettings.Development.json
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\appsettings.json
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Api.exe
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Api.deps.json
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Api.runtimeconfig.json
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Api.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Api.pdb
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Humanizer.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Core.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Data.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Service.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Core.pdb
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Data.pdb
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\web-api.Service.pdb
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.csproj.AssemblyReference.cache
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.AssemblyInfoInputs.cache
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.AssemblyInfo.cs
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.csproj.CoreCompileInputs.cache
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.sourcelink.json
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\staticwebassets.build.json
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\staticwebassets.development.json
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\staticwebassets\msbuild.web-api.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\staticwebassets\msbuild.build.web-api.Api.props
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.web-api.Api.props
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.web-api.Api.props
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\scopedcss\bundle\web-api.Api.styles.css
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api..EE118E04.Up2Date
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\refint\web-api.Api.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.pdb
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\web-api.Api.genruntimeconfig.cache
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\obj\Debug\net6.0\ref\web-api.Api.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\AutoMapper.dll
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\appsettings.Production.Development.json
+D:\תכנות\שנה B\דוטנט\מהסמינר\30.05.2024\ספריה-אחרי חיבור ל DB\ספריה-אחרי החלוקה לתקיות\Project1\web-api\web-api\bin\Debug\net6.0\appsettings.Production.json
